@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(./init)"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
